@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# apis
+youtube.js
+
 # testing
 /coverage
 
